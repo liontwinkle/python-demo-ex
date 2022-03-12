@@ -45,7 +45,7 @@ path.py==11.0.1
 pexpect==4.4.0
 phonenumberslite==8.9.9
 pickleshare==0.7.4
-Pillow==5.1.0
+Pillow==9.0.1
 pluggy==0.6.0
 prompt-toolkit==1.0.15
 psycopg2==2.7.4
